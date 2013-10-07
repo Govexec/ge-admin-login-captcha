@@ -1,0 +1,9 @@
+#id_captcha_1 {
+    width: 14em;
+    display: block;
+}
+
+img {
+    margin-left: 115px;
+    margin-top: 1%;
+}
